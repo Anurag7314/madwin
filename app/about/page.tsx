@@ -65,7 +65,7 @@ export default function About() {
                 deliver measurable, sustainable results that transform businesses and 
                 create lasting value for all stakeholders.
               </p>
-              <CTAButton href="/services" variant="secondary">
+              <CTAButton href="/services" variant="outline">
                 Explore Our Services
               </CTAButton>
             </div>
@@ -172,7 +172,7 @@ export default function About() {
           <p className="text-xl text-primary-100 mb-8">
             Let's discuss how our team can help you achieve your business objectives.
           </p>
-          <CTAButton href="/contact" variant="secondary" size="lg">
+          <CTAButton href="/contact" variant="outline" size="lg">
             Get in Touch
           </CTAButton>
         </div>

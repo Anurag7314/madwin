@@ -79,7 +79,7 @@ export default function Services() {
                     </li>
                   ))}
                 </ul>
-                <CTAButton href="/contact" variant="secondary" className="w-full">
+                <CTAButton href="/contact" variant="outline" className="w-full">
                   Learn More
                 </CTAButton>
               </div>
