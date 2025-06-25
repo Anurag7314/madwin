@@ -162,7 +162,7 @@ export default function Services() {
             Let's discuss how our consulting services can help you achieve your business goals.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <CTAButton href="/contact" variant="secondary" size="lg">
+            <CTAButton href="/contact" variant="outline" size="lg">
               Schedule a Consultation
             </CTAButton>
             <CTAButton href="/about" size="lg" className="bg-white text-primary-600 hover:bg-gray-100">
